@@ -17,8 +17,8 @@ def load_evaluation_data():
     data = {}
 
     files = {
-        'results': 'data/evaluation_results.json',
-        'summary': 'data/evaluation_summary.json',
+        'results': 'data/comprehensive_results.json',
+        'summary': 'data/comprehensive_summary.json',
         'ablation': 'data/ablation_results.json',
         'error': 'data/error_analysis.json'
     }
