@@ -72,22 +72,22 @@ def show_evaluation_dashboard():
             with col1:
                 st.metric(
                     "Mean Reciprocal Rank",
-                    f"{summary['metrics']['mrr']['mean']:.4f}",
-                    f"±{summary['metrics']['mrr']['std']:.4f}"
+                    f"{summary['standard_metrics']['mrr']['mean']:.4f}",
+                    f"±{summary['standard_metrics']['mrr']['std']:.4f}"
                 )
 
             with col2:
                 st.metric(
                     "F1 Score",
-                    f"{summary['metrics']['f1_score']['mean']:.4f}",
-                    f"±{summary['metrics']['f1_score']['std']:.4f}"
+                    f"{summary['standard_metrics']['f1_score']['mean']:.4f}",
+                    f"±{summary['standard_metrics']['f1_score']['std']:.4f}"
                 )
 
             with col3:
                 st.metric(
                     "NDCG@10",
-                    f"{summary['metrics']['ndcg@10']['mean']:.4f}",
-                    f"±{summary['metrics']['ndcg@10']['std']:.4f}"
+                    f"{summary['standard_metrics']['ndcg@10']['mean']:.4f}",
+                    f"±{summary['standard_metrics']['ndcg@10']['std']:.4f}"
                 )
 
             with col4:
@@ -115,10 +115,10 @@ def show_evaluation_dashboard():
                     color_discrete_sequence=['#3498db']
                 )
                 fig_mrr.add_vline(
-                    x=summary['metrics']['mrr']['mean'],
+                    x=summary['standard_metrics']['mrr']['mean'],
                     line_dash="dash",
                     line_color="red",
-                    annotation_text=f"Mean: {summary['metrics']['mrr']['mean']:.3f}"
+                    annotation_text=f"Mean: {summary['standard_metrics']['mrr']['mean']:.3f}"
                 )
                 st.plotly_chart(fig_mrr, use_container_width=True)
 
@@ -132,10 +132,10 @@ def show_evaluation_dashboard():
                     color_discrete_sequence=['#2ecc71']
                 )
                 fig_f1.add_vline(
-                    x=summary['metrics']['f1_score']['mean'],
+                    x=summary['standard_metrics']['f1_score']['mean'],
                     line_dash="dash",
                     line_color="red",
-                    annotation_text=f"Mean: {summary['metrics']['f1_score']['mean']:.3f}"
+                    annotation_text=f"Mean: {summary['standard_metrics']['f1_score']['mean']:.3f}"
                 )
                 st.plotly_chart(fig_f1, use_container_width=True)
 
