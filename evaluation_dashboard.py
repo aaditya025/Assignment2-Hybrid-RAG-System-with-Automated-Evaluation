@@ -165,7 +165,7 @@ def show_evaluation_dashboard():
     with tab2:
         st.header("Ablation Study Results")
 
-        if ablation:
+        if ablation and ablation is not None:
             # Retrieval mode comparison
             st.subheader("1. Retrieval Mode Comparison")
 
@@ -239,6 +239,15 @@ def show_evaluation_dashboard():
                         title='Effect of Top-N on F1 Score'
                     )
                     st.plotly_chart(fig_n, use_container_width=True)
+        else:
+            st.info("ℹ️ Ablation study data not available. The dashboard is showing results from the comprehensive evaluation.")
+            st.markdown("""
+            To run ablation studies, use:
+            ```bash
+            python evaluate.py
+            ```
+            This will compare Dense, Sparse, and Hybrid retrieval modes.
+            """)
 
     # ===== TAB 3: Detailed Results =====
     with tab3:
@@ -333,6 +342,18 @@ def show_evaluation_dashboard():
 
             fig_error.update_layout(showlegend=False, height=400)
             st.plotly_chart(fig_error, use_container_width=True)
+        else:
+            st.info("ℹ️ Detailed error analysis data not available.")
+            st.markdown("""
+            The current evaluation includes basic performance metrics.
+
+            For detailed error analysis:
+            - Retrieval failures
+            - Generation failures
+            - Ranking issues
+
+            Run the full evaluation with error tracking enabled.
+            """)
 
     # ===== TAB 5: Raw Data =====
     with tab5:
