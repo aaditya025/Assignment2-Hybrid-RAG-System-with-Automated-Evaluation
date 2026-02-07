@@ -1,0 +1,1022 @@
+[
+  {
+    "question_id": "Q001",
+    "question": "What are the main characteristics of Artificial intelligence?",
+    "ground_truth_answer": "to efficiently control their citizens in several ways. face and voice recognition allow widespread surveillance.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "source_title": "Artificial intelligence",
+    "question_type": "factual",
+    "context_snippet": "to efficiently control their citizens in several ways. face and voice recognition allow widespread surveillance. machine learning, operating this data, can classify potential enemies of the state and prevent them from hiding. recommendation systems can precisely target propaganda and misinformation "
+  },
+  {
+    "question_id": "Q002",
+    "question": "Explain Machine learning.",
+    "ground_truth_answer": ", in which the question, \" can machines think? \", is replaced with the question, \" can machines do what we ( as thinking entities ) can do? \". modern - day machine learning algorithms are broken into 3 algorithm types : supervised learning algorithms, unsupervised learning algorithms, and reinforcement learning algorithms.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "source_title": "Machine learning",
+    "question_type": "factual",
+    "context_snippet": ", in which the question, \" can machines think? \", is replaced with the question, \" can machines do what we ( as thinking entities ) can do? \". modern - day machine learning algorithms are broken into 3 algorithm types : supervised learning algorithms, unsupervised learning algorithms, and reinforcem"
+  },
+  {
+    "question_id": "Q003",
+    "question": "Explain Quantum computing.",
+    "ground_truth_answer": "probability of finding the desired element for any number of oracle lookups. many examples of provable quantum speedups for query problems are based on grover ' s algorithm, including brassard, h\u00f8yer, and tapp ' s algorithm for finding collisions in two - to - one functions, and farhi, goldstone, and gutmann ' s algorithm for evaluating nand trees.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+    "source_title": "Quantum computing",
+    "question_type": "factual",
+    "context_snippet": "probability of finding the desired element for any number of oracle lookups. many examples of provable quantum speedups for query problems are based on grover ' s algorithm, including brassard, h\u00f8yer, and tapp ' s algorithm for finding collisions in two - to - one functions, and farhi, goldstone, an"
+  },
+  {
+    "question_id": "Q004",
+    "question": "What is Climate change?",
+    "ground_truth_answer": "temperature rise of 0. 0 \u00b0c, as well as additional warming by preventing damage to vegetation from ultraviolet radiation.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Climate_change",
+    "source_title": "Climate change",
+    "question_type": "factual",
+    "context_snippet": "temperature rise of 0. 5 \u00b0c \u2013 1. 0 \u00b0c, as well as additional warming by preventing damage to vegetation from ultraviolet radiation. it is estimated that the agreement has been more effective at curbing greenhouse gas emissions than the kyoto protocol specifically designed to do so. the most recent a"
+  },
+  {
+    "question_id": "Q005",
+    "question": "Define Renewable energy.",
+    "ground_truth_answer": "to dwindling oil income. a study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don ' t need fuel \u2013 they depend on trade only for the acquisition of materials and components during construction.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Renewable_energy",
+    "source_title": "Renewable energy",
+    "question_type": "factual",
+    "context_snippet": "to dwindling oil income. a study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don ' t need fuel \u2013 they depend on trade only for the acquisition of materials and components during constru"
+  },
+  {
+    "question_id": "Q006",
+    "question": "What are the main characteristics of Space exploration?",
+    "ground_truth_answer": "the ability to perform experiments in other settings and expand humanity ' s knowledge. another claim is that space exploration is a necessity to humankind and that staying on earth will eventually lead to extinction.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Space_exploration",
+    "source_title": "Space exploration",
+    "question_type": "factual",
+    "context_snippet": "the ability to perform experiments in other settings and expand humanity ' s knowledge. another claim is that space exploration is a necessity to humankind and that staying on earth will eventually lead to extinction. some of the reasons are lack of natural resources, comets, nuclear war, and worldw"
+  },
+  {
+    "question_id": "Q007",
+    "question": "Describe Genome.",
+    "ground_truth_answer": "necessary to understand the genetic diversity. in 1976, walter fiers at the university of ghent ( belgium ) was the first to establish the complete nucleotide sequence of a viral rna - genome ( bacteriophage ms2 ).",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Genome",
+    "source_title": "Genome",
+    "question_type": "factual",
+    "context_snippet": "necessary to understand the genetic diversity. in 1976, walter fiers at the university of ghent ( belgium ) was the first to establish the complete nucleotide sequence of a viral rna - genome ( bacteriophage ms2 ). the next year, fred sanger completed the first dna - genome sequence : phage x174, of"
+  },
+  {
+    "question_id": "Q008",
+    "question": "Describe Photosynthesis.",
+    "ground_truth_answer": "electron donors. green nonsulfur bacteria used various amino and other organic acids as electron donors.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "source_title": "Photosynthesis",
+    "question_type": "factual",
+    "context_snippet": "electron donors. green nonsulfur bacteria used various amino and other organic acids as electron donors. purple nonsulfur bacteria used a variety of nonspecific organic molecules. the use of these molecules is consistent with the geological evidence that earth ' s early atmosphere was highly reducin"
+  },
+  {
+    "question_id": "Q009",
+    "question": "What is Renaissance?",
+    "ground_truth_answer": ", and the polyphony of the netherlanders, as it moved with the musicians themselves into italy, formed the core of the first true international style in music since the standardization of gregorian chant in the 9th century. the culmination of the netherlandish school was in the music of the italian composer giovanni pierluigi da palestrina.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Renaissance",
+    "source_title": "Renaissance",
+    "question_type": "factual",
+    "context_snippet": ", and the polyphony of the netherlanders, as it moved with the musicians themselves into italy, formed the core of the first true international style in music since the standardization of gregorian chant in the 9th century. the culmination of the netherlandish school was in the music of the italian "
+  },
+  {
+    "question_id": "Q010",
+    "question": "What is World War II?",
+    "ground_truth_answer": "a variety of such weapons during its invasion and occupation of china ( see unit 731 ) and in early conflicts against the soviets. both the germans and the japanese tested such weapons against civilians, and sometimes on prisoners of war.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/World_War_II",
+    "source_title": "World War II",
+    "question_type": "factual",
+    "context_snippet": "a variety of such weapons during its invasion and occupation of china ( see unit 731 ) and in early conflicts against the soviets. both the germans and the japanese tested such weapons against civilians, and sometimes on prisoners of war. the soviet union was responsible for the katyn massacre of 22"
+  },
+  {
+    "question_id": "Q011",
+    "question": "Define Democracy.",
+    "ground_truth_answer": "power, while independent sources of information are able to undermine their legitimacy.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "source_title": "Democracy",
+    "question_type": "factual",
+    "context_snippet": "power, while independent sources of information are able to undermine their legitimacy."
+  },
+  {
+    "question_id": "Q012",
+    "question": "Define Economics.",
+    "ground_truth_answer": "say reckless drivers ), and moral hazard, such that insurance results in riskier behaviour ( say more reckless driving ). both problems may raise insurance costs and reduce efficiency by driving otherwise willing transactors from the market ( \" incomplete markets \" ).",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Economics",
+    "source_title": "Economics",
+    "question_type": "factual",
+    "context_snippet": "say reckless drivers ), and moral hazard, such that insurance results in riskier behaviour ( say more reckless driving ). both problems may raise insurance costs and reduce efficiency by driving otherwise willing transactors from the market ( \" incomplete markets \" ). moreover, attempting to reduce "
+  },
+  {
+    "question_id": "Q013",
+    "question": "What are the main characteristics of Philosophy?",
+    "ground_truth_answer": "reporting on events. in the fields of theology and religion, there are many doctrines associated with the existence and nature of god as well as rules governing correct behavior.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Philosophy",
+    "source_title": "Philosophy",
+    "question_type": "factual",
+    "context_snippet": "reporting on events. in the fields of theology and religion, there are many doctrines associated with the existence and nature of god as well as rules governing correct behavior. a key issue is whether a rational person should believe these doctrines, for example, whether revelation in the form of h"
+  },
+  {
+    "question_id": "Q014",
+    "question": "What are the main characteristics of Psychology?",
+    "ground_truth_answer": "psychology is primarily an orientation toward the whole of psychology rather than a distinct area or school. it stands for respect for the worth of persons, respect for differences of approach, open - mindedness as to acceptable methods, and interest in exploration of new aspects of human behavior.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Psychology",
+    "source_title": "Psychology",
+    "question_type": "factual",
+    "context_snippet": "psychology is primarily an orientation toward the whole of psychology rather than a distinct area or school. it stands for respect for the worth of persons, respect for differences of approach, open - mindedness as to acceptable methods, and interest in exploration of new aspects of human behavior. "
+  },
+  {
+    "question_id": "Q015",
+    "question": "Explain Linguistics.",
+    "ground_truth_answer": "10, 000 years is often assumed for the functional purpose of conducting research. it is also hard to date various proto - languages.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Linguistics",
+    "source_title": "Linguistics",
+    "question_type": "factual",
+    "context_snippet": "10, 000 years is often assumed for the functional purpose of conducting research. it is also hard to date various proto - languages. even though several methods are available, these languages can be dated only approximately. in modern historical linguistics, we examine how languages change over time"
+  },
+  {
+    "question_id": "Q016",
+    "question": "What is Evolution?",
+    "ground_truth_answer": "include wisdom teeth, the coccyx, the vermiform appendix, and other behavioural vestiges such as goose bumps and primitive reflexes. however, many traits that appear to be simple adaptations are in fact exaptations : structures originally adapted for one function, but which coincidentally became somewhat useful for some other function in the process.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Evolution",
+    "source_title": "Evolution",
+    "question_type": "factual",
+    "context_snippet": "include wisdom teeth, the coccyx, the vermiform appendix, and other behavioural vestiges such as goose bumps and primitive reflexes. however, many traits that appear to be simple adaptations are in fact exaptations : structures originally adapted for one function, but which coincidentally became som"
+  },
+  {
+    "question_id": "Q017",
+    "question": "Define Black hole.",
+    "ground_truth_answer": "model, based on string theory, states that black holes are actually made up of quantum microstates and need not have a singularity or an event horizon. the theory of loop quantum gravity proposes that the curvature and density at the center of a black hole is large, but not infinite.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Black_hole",
+    "source_title": "Black hole",
+    "question_type": "factual",
+    "context_snippet": "model, based on string theory, states that black holes are actually made up of quantum microstates and need not have a singularity or an event horizon. the theory of loop quantum gravity proposes that the curvature and density at the center of a black hole is large, but not infinite. black holes are"
+  },
+  {
+    "question_id": "Q018",
+    "question": "Describe DNA.",
+    "ground_truth_answer": "patterns that showed that dna had a regular structure. in 1943, oswald avery, along with co - workers colin macleod and maclyn mccarty, identified dna as the transforming principle, supporting griffith ' s suggestion ( avery \u2013 macleod \u2013 mccarty experiment ).",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/DNA",
+    "source_title": "DNA",
+    "question_type": "factual",
+    "context_snippet": "patterns that showed that dna had a regular structure. in 1943, oswald avery, along with co - workers colin macleod and maclyn mccarty, identified dna as the transforming principle, supporting griffith ' s suggestion ( avery \u2013 macleod \u2013 mccarty experiment ). erwin chargaff developed and published ob"
+  },
+  {
+    "question_id": "Q019",
+    "question": "What is Internet?",
+    "ground_truth_answer": ", with 93 % or more of the population with access. as of 2022, it was estimated that 5.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Internet",
+    "source_title": "Internet",
+    "question_type": "factual",
+    "context_snippet": ", with 93 % or more of the population with access. as of 2022, it was estimated that 5. 4 billion people use the internet, more than two - thirds of the world ' s population. early computer systems were limited to the characters in the american standard code for information interchange ( ascii ), a "
+  },
+  {
+    "question_id": "Q020",
+    "question": "Define Blockchain.",
+    "ground_truth_answer": "players to earn real - world funds from games. blockchain games typically allow players to trade these in - game items for cryptocurrency, which can then be exchanged for money.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Blockchain",
+    "source_title": "Blockchain",
+    "question_type": "factual",
+    "context_snippet": "players to earn real - world funds from games. blockchain games typically allow players to trade these in - game items for cryptocurrency, which can then be exchanged for money. the first known game to use blockchain technologies was cryptokitties, launched in november 2017, where the player would p"
+  },
+  {
+    "question_id": "Q021",
+    "question": "What are the main characteristics of Ice hockey in Russia?",
+    "ground_truth_answer": "##gilny, and sergei federov. on the international stage, russia considers canada its major hockey rival.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ice_hockey_in_Russia",
+    "source_title": "Ice hockey in Russia",
+    "question_type": "factual",
+    "context_snippet": "##gilny, and sergei federov. on the international stage, russia considers canada its major hockey rival. during this period the russian national team, having won the 1993 world championship, for a long time remained without medals at all. and only in recent years, the russian team began to return it"
+  },
+  {
+    "question_id": "Q022",
+    "question": "Define John Tracy (Medal of Honor).",
+    "ground_truth_answer": "private john tracy ( december 28, 1848 \u2013 may 29, 1918 ), born henry g. nabers, was an irish - born soldier in the u.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/John_Tracy_(Medal_of_Honor)",
+    "source_title": "John Tracy (Medal of Honor)",
+    "question_type": "factual",
+    "context_snippet": "private john tracy ( december 28, 1848 \u2013 may 29, 1918 ), born henry g. nabers, was an irish - born soldier in the u. s. army who served with the 8th u. s. cavalry during the apache wars. he was one of thirty - two men received the medal of honor for gallantry in fighting cochise and the apache india"
+  },
+  {
+    "question_id": "Q023",
+    "question": "Explain Edi Gathegi.",
+    "ground_truth_answer": "though he had originally auditioned for the role of kaylo, the producers gave the role to efren ramirez and instead offered gathegi an appearance as the haitian cabbie. he was skeptical at first about performing a haitian accent but was coached by a haitian friend.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Edi_Gathegi",
+    "source_title": "Edi Gathegi",
+    "question_type": "factual",
+    "context_snippet": ", crank. though he had originally auditioned for the role of kaylo, the producers gave the role to efren ramirez and instead offered gathegi an appearance as the haitian cabbie. he was skeptical at first about performing a haitian accent but was coached by a haitian friend. in 2007, after guest - st"
+  },
+  {
+    "question_id": "Q024",
+    "question": "What are the main characteristics of List of international cricket centuries by Don Bradman?",
+    "ground_truth_answer": "a number 7 batsman, while his 304 against england in 1934 was the highest score made by a number 5 batsman, until january 2012, when michael clarke made 329 * against the touring indians. by the time of his retirement in 1948, bradman had made twenty - nine centuries in eighty innings.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/List_of_international_cricket_centuries_by_Don_Bradman",
+    "source_title": "List of international cricket centuries by Don Bradman",
+    "question_type": "factual",
+    "context_snippet": "a number 7 batsman, while his 304 against england in 1934 was the highest score made by a number 5 batsman, until january 2012, when michael clarke made 329 * against the touring indians. by the time of his retirement in 1948, bradman had made twenty - nine centuries in eighty innings. these centuri"
+  },
+  {
+    "question_id": "Q025",
+    "question": "What is K-Bar Ranch, Texas?",
+    "ground_truth_answer": "up of individuals, and 4. 0 % had someone living alone who was 65 years of age or older.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/K-Bar_Ranch,_Texas",
+    "source_title": "K-Bar Ranch, Texas",
+    "question_type": "factual",
+    "context_snippet": "up of individuals, and 4. 0 % had someone living alone who was 65 years of age or older. the average household size was 3. 54 and the average family size was 3. 69. in the cdp, the population was spread out, with 38. 6 % under the age of 18, 7. 7 % from 18 to 24, 26. 6 % from 25 to 44, 17. 4 % from "
+  },
+  {
+    "question_id": "Q026",
+    "question": "What is Suzerainty?",
+    "ground_truth_answer": ", the governor - general lord mountbatten announced that the british paramountcy over indian states would come to an end. the states were advised to accede to one of the new dominions, india or pakistan.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Suzerainty",
+    "source_title": "Suzerainty",
+    "question_type": "factual",
+    "context_snippet": ", the governor - general lord mountbatten announced that the british paramountcy over indian states would come to an end. the states were advised to accede to one of the new dominions, india or pakistan. an instrument of accession was devised for this purpose. the congress leaders agreed to the plan"
+  },
+  {
+    "question_id": "Q027",
+    "question": "Define Bundok flycatcher.",
+    "ground_truth_answer": "the bundok flycatcher ( ficedula luzoniensis ) or thicket flycatcher, is a species of bird in the family muscicapidae. it is endemic to the philippines found in tropical montane forest.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Bundok_flycatcher",
+    "source_title": "Bundok flycatcher",
+    "question_type": "factual",
+    "context_snippet": "the bundok flycatcher ( ficedula luzoniensis ) or thicket flycatcher, is a species of bird in the family muscicapidae. it is endemic to the philippines found in tropical montane forest. ebird describes the bird as \" a small bird of montane forest undergrowth, where it perches motionless for long per"
+  },
+  {
+    "question_id": "Q028",
+    "question": "Define Andres Barrioquinto.",
+    "ground_truth_answer": "today ' s most influential faces : ben chan, baby fores, josie natori, and bea zobel jr, to name a few. in that same year, he was included in the roster of peopleasia magazine ' s people of the year awardees and the year after that.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Andres_Barrioquinto",
+    "source_title": "Andres Barrioquinto",
+    "question_type": "factual",
+    "context_snippet": "today ' s most influential faces : ben chan, baby fores, josie natori, and bea zobel jr, to name a few. in that same year, he was included in the roster of peopleasia magazine ' s people of the year awardees and the year after that. in 2021, he was included in lifestyle asia ' s the list in 2022, ri"
+  },
+  {
+    "question_id": "Q029",
+    "question": "What are the main characteristics of Ole O. Sageng?",
+    "ground_truth_answer": "henry nycklemoe, a member of the minnesota democratic \u2013 farmer \u2013 labor party, defeated sageng.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ole_O._Sageng",
+    "source_title": "Ole O. Sageng",
+    "question_type": "factual",
+    "context_snippet": "henry nycklemoe, a member of the minnesota democratic \u2013 farmer \u2013 labor party, defeated sageng."
+  },
+  {
+    "question_id": "Q030",
+    "question": "Describe Disability treatments in the United States.",
+    "ground_truth_answer": "and became a popular way to treat the deaf. the reason disability treatments in the united states were able to have significant developments in the 20th century was due to government interference.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Disability_treatments_in_the_United_States",
+    "source_title": "Disability treatments in the United States",
+    "question_type": "factual",
+    "context_snippet": "and became a popular way to treat the deaf. the reason disability treatments in the united states were able to have significant developments in the 20th century was due to government interference. the disability rights movement became increasingly popular in the 19th century and as a result pressure"
+  },
+  {
+    "question_id": "Q031",
+    "question": "Describe 2nd Maine Light Artillery Battery.",
+    "ground_truth_answer": "the 2nd maine light artillery battery was an artillery battery that served in the union army during the american civil war. the 2nd maine battery was organized in augusta, maine and mustered in for three years ' service on november 20, 1861.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/2nd_Maine_Light_Artillery_Battery",
+    "source_title": "2nd Maine Light Artillery Battery",
+    "question_type": "factual",
+    "context_snippet": "the 2nd maine light artillery battery was an artillery battery that served in the union army during the american civil war. the 2nd maine battery was organized in augusta, maine and mustered in for three years ' service on november 20, 1861. the battery was attached to 2nd brigade, 2nd division ( mc"
+  },
+  {
+    "question_id": "Q032",
+    "question": "Describe Jeff Friday.",
+    "ground_truth_answer": "as the head strength and conditioning coach. the season was cut short due to covid - 19 restrictions.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Jeff_Friday",
+    "source_title": "Jeff Friday",
+    "question_type": "factual",
+    "context_snippet": "as the head strength and conditioning coach. the season was cut short due to covid - 19 restrictions. the defenders had a 3 \u2013 2 record, and were east division champions. on november 16, friday released his first book, ' built 4 winning ', about his experiences within the nfl and strategies he used t"
+  },
+  {
+    "question_id": "Q033",
+    "question": "Define Adelyn Dohme Breeskin.",
+    "ground_truth_answer": "adelyn dohme breeskin ( 1896 \u2013 1986 ) was an american curator, museum director, and art historian known for her longtime leadership of the baltimore museum of art and mary cassatt scholarship. adelyn dohme was born in 1896 in baltimore to alfred robert louis dohme and emmie blumner ( dohme ).",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Adelyn_Dohme_Breeskin",
+    "source_title": "Adelyn Dohme Breeskin",
+    "question_type": "factual",
+    "context_snippet": "adelyn dohme breeskin ( 1896 \u2013 1986 ) was an american curator, museum director, and art historian known for her longtime leadership of the baltimore museum of art and mary cassatt scholarship. adelyn dohme was born in 1896 in baltimore to alfred robert louis dohme and emmie blumner ( dohme ). in 191"
+  },
+  {
+    "question_id": "Q034",
+    "question": "What is Duck and Cover (The Wire)?",
+    "ground_truth_answer": "mcnulty calls the number for the madam and sets up an appointment. mcnulty has another drink at beadie ' s home but leaves when he sees pictures of her children, realizing nothing good could come from sleeping with her.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Duck_and_Cover_(The_Wire)",
+    "source_title": "Duck and Cover (The Wire)",
+    "question_type": "factual",
+    "context_snippet": "mcnulty calls the number for the madam and sets up an appointment. mcnulty has another drink at beadie ' s home but leaves when he sees pictures of her children, realizing nothing good could come from sleeping with her. bodie, poot and puddin lament that their weak product has led to a lack of trade"
+  },
+  {
+    "question_id": "Q035",
+    "question": "Explain Plesiocystiscinae.",
+    "ground_truth_answer": "plesiocystiscinae is a subfamily of minute sea predatory sea snails, marine gastropod mollusks or micromollusks in the infraorder neogastropoda. the genus name on which this subfamily name is based is derived from the greekword plesios, near, in the sense of plesiomorphic, in other words having characters close to those of the ancestor, combined with cystiscus the name of a closely related genus.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Plesiocystiscinae",
+    "source_title": "Plesiocystiscinae",
+    "question_type": "factual",
+    "context_snippet": "plesiocystiscinae is a subfamily of minute sea predatory sea snails, marine gastropod mollusks or micromollusks in the infraorder neogastropoda. the genus name on which this subfamily name is based is derived from the greekword plesios, near, in the sense of plesiomorphic, in other words having char"
+  },
+  {
+    "question_id": "Q036",
+    "question": "Describe The Dreamhoppers.",
+    "ground_truth_answer": "the dreamhoppers is an american comic book series illustrated and written by travis moore who also illustrated dc comics ' freedom fighters, justice society of america, wonder woman, titan, the green team, sword of sorcery. the dreamhoppers were a group of fictional superhero characters that appeared in comic books published by laizen comics.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Dreamhoppers",
+    "source_title": "The Dreamhoppers",
+    "question_type": "factual",
+    "context_snippet": "the dreamhoppers is an american comic book series illustrated and written by travis moore who also illustrated dc comics ' freedom fighters, justice society of america, wonder woman, titan, the green team, sword of sorcery. the dreamhoppers were a group of fictional superhero characters that appeare"
+  },
+  {
+    "question_id": "Q037",
+    "question": "Describe Schlachteplatte.",
+    "ground_truth_answer": "took place mainly in the autumn. this meant that not so many animals had to be fed over the winter, so the meat could be preserved for longer in the cooler temperatures and the farmers had more time after the last harvest for turning it into ham and sausages which could then be smoked over the winter hearth fire.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Schlachteplatte",
+    "source_title": "Schlachteplatte",
+    "question_type": "factual",
+    "context_snippet": "took place mainly in the autumn. this meant that not so many animals had to be fed over the winter, so the meat could be preserved for longer in the cooler temperatures and the farmers had more time after the last harvest for turning it into ham and sausages which could then be smoked over the winte"
+  },
+  {
+    "question_id": "Q038",
+    "question": "What is St. John's Maroon Church?",
+    "ground_truth_answer": "john ' s maroon church is a methodist church located in maroon town, a district of freetown, the capital of sierra leone. it is one of the oldest churches in the country.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/St._John%27s_Maroon_Church",
+    "source_title": "St. John's Maroon Church",
+    "question_type": "factual",
+    "context_snippet": "st. john ' s maroon church is a methodist church located in maroon town, a district of freetown, the capital of sierra leone. it is one of the oldest churches in the country. the jamaican maroons were men, women and children, originating from jamaica who had surrendered at the end of the second maro"
+  },
+  {
+    "question_id": "Q039",
+    "question": "What are the main characteristics of Lady M (boutique)?",
+    "ground_truth_answer": "as of 2023, lady m operated boutiques in : singapore ( 5 ), hong kong ( 7 ), macau ( 2 ), taiwan ( 5 ), and united states ( 19 ).",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Lady_M_(boutique)",
+    "source_title": "Lady M (boutique)",
+    "question_type": "factual",
+    "context_snippet": "market. as of 2023, lady m operated boutiques in : singapore ( 5 ), hong kong ( 7 ), macau ( 2 ), taiwan ( 5 ), and united states ( 19 )."
+  },
+  {
+    "question_id": "Q040",
+    "question": "What are the main characteristics of A Wild Hare?",
+    "ground_truth_answer": ", marching towards his burrow reminiscent of patriotic imagery. in a rare promotional broadcast, a wild hare was loosely adapted for the radio as a sketch performed by mel blanc and arthur q.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/A_Wild_Hare",
+    "source_title": "A Wild Hare",
+    "question_type": "factual",
+    "context_snippet": ", marching towards his burrow reminiscent of patriotic imagery. in a rare promotional broadcast, a wild hare was loosely adapted for the radio as a sketch performed by mel blanc and arthur q. bryan on the april 11, 1941, edition of the al pearce show. the sketch was followed by a scripted interview "
+  },
+  {
+    "question_id": "Q041",
+    "question": "Define Tom Osborne (Canadian politician).",
+    "ground_truth_answer": "thomas osborne ( born september 20, 1964 ) is a politician in newfoundland and labrador, canada. he represented the district of waterford valley in the newfoundland and labrador house of assembly from 1996 to 2024.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Tom_Osborne_(Canadian_politician)",
+    "source_title": "Tom Osborne (Canadian politician)",
+    "question_type": "factual",
+    "context_snippet": "thomas osborne ( born september 20, 1964 ) is a politician in newfoundland and labrador, canada. he represented the district of waterford valley in the newfoundland and labrador house of assembly from 1996 to 2024. he was a member of the liberal party, a former member of the progressive conservative"
+  },
+  {
+    "question_id": "Q042",
+    "question": "Describe Johnny Herbert.",
+    "ground_truth_answer": "fourth in a race which he would later describe as his strongest performance since his pre - accident days. staying at stewart after the team was purchased by ford and became jaguar, herbert endured another frustrating and pointless season, ending the year being stretchered off at malaysia after a suspension failure caused him to crash heavily.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Johnny_Herbert",
+    "source_title": "Johnny Herbert",
+    "question_type": "factual",
+    "context_snippet": "fourth in a race which he would later describe as his strongest performance since his pre - accident days. staying at stewart after the team was purchased by ford and became jaguar, herbert endured another frustrating and pointless season, ending the year being stretchered off at malaysia after a su"
+  },
+  {
+    "question_id": "Q043",
+    "question": "Describe Sharon Carpenter.",
+    "ground_truth_answer": "bbc program bbc world news america. in 2013, she co - created her first television show, vh1 ' s the gossip game, and appeared on the series as a main cast member.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sharon_Carpenter",
+    "source_title": "Sharon Carpenter",
+    "question_type": "factual",
+    "context_snippet": "bbc program bbc world news america. in 2013, she co - created her first television show, vh1 ' s the gossip game, and appeared on the series as a main cast member. the docu - soap followed the lives and careers of seven female media personalities reporting on the entertainment industry. carpenter ha"
+  },
+  {
+    "question_id": "Q044",
+    "question": "Describe Connor Robertson.",
+    "ground_truth_answer": "james connor robertson ( born september 10, 1981 ) is an american former right - handed major league baseball relief pitcher. he was drafted out of birmingham southern college in the 31st round of the 2004 major league baseball draft by the oakland athletics.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Connor_Robertson",
+    "source_title": "Connor Robertson",
+    "question_type": "factual",
+    "context_snippet": "james connor robertson ( born september 10, 1981 ) is an american former right - handed major league baseball relief pitcher. he was drafted out of birmingham southern college in the 31st round of the 2004 major league baseball draft by the oakland athletics. robertson was drafted in the 31st round "
+  },
+  {
+    "question_id": "Q045",
+    "question": "What are the main characteristics of Jyotiranjan Srichandan Ray?",
+    "ground_truth_answer": "jyotiranjan srichandan ray ( born 16 july 1970 ) is an indian geochemist, geochronologist and a professor at the physical research laboratory. he is known for his studies on the geochronology of the indian subcontinent and his studies have been documented in several peer - reviewed articles ; researchgate and google scholar, online repositories of scientific articles, have listed 53 and 59 of them respectively.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Jyotiranjan_Srichandan_Ray",
+    "source_title": "Jyotiranjan Srichandan Ray",
+    "question_type": "factual",
+    "context_snippet": "jyotiranjan srichandan ray ( born 16 july 1970 ) is an indian geochemist, geochronologist and a professor at the physical research laboratory. he is known for his studies on the geochronology of the indian subcontinent and his studies have been documented in several peer - reviewed articles ; resear"
+  },
+  {
+    "question_id": "Q046",
+    "question": "Define Triangular distribution.",
+    "ground_truth_answer": "in probability theory and statistics, the triangular distribution is a continuous probability distribution with lower limit a, upper limit b, and mode c, where a < b and a \u2264 c \u2264 b. the distribution simplifies when c = a or c = b.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Triangular_distribution",
+    "source_title": "Triangular distribution",
+    "question_type": "factual",
+    "context_snippet": "in probability theory and statistics, the triangular distribution is a continuous probability distribution with lower limit a, upper limit b, and mode c, where a < b and a \u2264 c \u2264 b. the distribution simplifies when c = a or c = b. for example, if a = 0, b = 1 and c = 1, then the pdf and cdf become : "
+  },
+  {
+    "question_id": "Q047",
+    "question": "Define Wei Wei (male writer).",
+    "ground_truth_answer": "wei wei ( chinese : ; pinyin : ; march 6, 1920 \u2013 august 24, 2008 ), originally known as hong jie ( simplified chinese : ; traditional chinese : ; pinyin : ), was a chinese poet, a prose writer, a literary report writer, a journalist, a vice - editor - in - chief and the editor of various newspapers in china. his works are noted for their themes of patriotism, communism, and nationalism.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Wei_Wei_(male_writer)",
+    "source_title": "Wei Wei (male writer)",
+    "question_type": "factual",
+    "context_snippet": "wei wei ( chinese : ; pinyin : ; march 6, 1920 \u2013 august 24, 2008 ), originally known as hong jie ( simplified chinese : ; traditional chinese : ; pinyin : ), was a chinese poet, a prose writer, a literary report writer, a journalist, a vice - editor - in - chief and the editor of various newspapers "
+  },
+  {
+    "question_id": "Q048",
+    "question": "Describe Public housing in Taiwan.",
+    "ground_truth_answer": "public housing in taiwan ( \u516c ) has been a key component of the taiwan government \u2019 s efforts to provide affordable housing since the post - world war ii era. public housing development in taiwan initially aimed to address the needs of a growing population and the ageing condition of military - dependent housing.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_housing_in_Taiwan",
+    "source_title": "Public housing in Taiwan",
+    "question_type": "factual",
+    "context_snippet": "public housing in taiwan ( \u516c ) has been a key component of the taiwan government \u2019 s efforts to provide affordable housing since the post - world war ii era. public housing development in taiwan initially aimed to address the needs of a growing population and the ageing condition of military - depen"
+  },
+  {
+    "question_id": "Q049",
+    "question": "Describe St. Elmo Brady.",
+    "ground_truth_answer": "first african american to receive a ph. in chemistry in the united states, which he received from the university of illinois in 1916.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/St._Elmo_Brady",
+    "source_title": "St. Elmo Brady",
+    "question_type": "factual",
+    "context_snippet": "first african american to receive a ph. d. in chemistry in the united states, which he received from the university of illinois in 1916. during his time at illinois, brady became the first african american admitted to the university ' s chemical honor society, phi lambda upsilon, ( 1914 ), and he wa"
+  },
+  {
+    "question_id": "Q050",
+    "question": "Explain Chip Caray.",
+    "ground_truth_answer": "for seven seasons, with steve stone providing color commentary for most of those years. both caray and stone left the cubs after the 2004 season.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Chip_Caray",
+    "source_title": "Chip Caray",
+    "question_type": "factual",
+    "context_snippet": "for seven seasons, with steve stone providing color commentary for most of those years. both caray and stone left the cubs after the 2004 season. on the final day of the 2004 season, caray announced that he had signed a long - term contract with both tbs and clear channel to work alongside his fathe"
+  },
+  {
+    "question_id": "Q051",
+    "question": "Compare Evolution and AVAir Flight 3378.",
+    "ground_truth_answer": "Evolution: colour vision and one for night vision ; all four are descended from a single ancestral gene. new genes can be generated from an ancestral gene when a... AVAir Flight 3378: avair flight 3378 was a scheduled flight from raleigh \u2013 durham international airport to richmond international airport operated by air virginia that c...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Evolution",
+      "https://en.wikipedia.org/wiki/AVAir_Flight_3378"
+    ],
+    "source_title": [
+      "Evolution",
+      "AVAir Flight 3378"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Evolution: colour vision and one for night vision ; all four are descended from a single ancestral gene. new genes can be generated from an ancestral gene when a... AVAir Flight 3378: avair flight 3378 was a scheduled flight from raleigh \u2013 durham international airport to richmond international airport operated by air virginia that c..."
+  },
+  {
+    "question_id": "Q052",
+    "question": "What is the difference between Mateo El\u00edas Nieves Castillo and Bundok flycatcher?",
+    "ground_truth_answer": "Mateo El\u00edas Nieves Castillo: mateo elias nieves castillo ( 21 september 1882 \u2013 10 march 1928 ) was a mexican roman catholic priest who was also a member of the order of saint augu... Bundok flycatcher: the bundok flycatcher ( ficedula luzoniensis ) or thicket flycatcher, is a species of bird in the family muscicapidae. it is endemic to the philippine...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Mateo_El%C3%ADas_Nieves_Castillo",
+      "https://en.wikipedia.org/wiki/Bundok_flycatcher"
+    ],
+    "source_title": [
+      "Mateo El\u00edas Nieves Castillo",
+      "Bundok flycatcher"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Mateo El\u00edas Nieves Castillo: mateo elias nieves castillo ( 21 september 1882 \u2013 10 march 1928 ) was a mexican roman catholic priest who was also a member of the order of saint augu... Bundok flycatcher: the bundok flycatcher ( ficedula luzoniensis ) or thicket flycatcher, is a species of bird in the family muscicapidae. it is endemic to the philippine..."
+  },
+  {
+    "question_id": "Q053",
+    "question": "How does Lauren Rogers Museum of Art differ from Nicholson, Queensland?",
+    "ground_truth_answer": "Lauren Rogers Museum of Art: did not let lauren ' s legacy die with him. instead, they created lauren ' s legacy for him through the establishing of this museum in his honor. thro... Nicholson, Queensland: to the east and doomadgee state school ( early childhood to year 10 ) in neighbouring doomadgee to the south. however, these schools are too distant f...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Lauren_Rogers_Museum_of_Art",
+      "https://en.wikipedia.org/wiki/Nicholson,_Queensland"
+    ],
+    "source_title": [
+      "Lauren Rogers Museum of Art",
+      "Nicholson, Queensland"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Lauren Rogers Museum of Art: did not let lauren ' s legacy die with him. instead, they created lauren ' s legacy for him through the establishing of this museum in his honor. thro... Nicholson, Queensland: to the east and doomadgee state school ( early childhood to year 10 ) in neighbouring doomadgee to the south. however, these schools are too distant f..."
+  },
+  {
+    "question_id": "Q054",
+    "question": "What is the difference between Phoebe Judge and David Bonderman?",
+    "ground_truth_answer": "Phoebe Judge: public media. when the story ended in 2013, judge and two colleagues, lauren spohrer and eric mennel, decided to create their own program. spohrer cam... David Bonderman: through fraudulent conduct, deceived sec staff by creating backdated minutes non - existent valuation meetings, and altering valuation policy document...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Phoebe_Judge",
+      "https://en.wikipedia.org/wiki/David_Bonderman"
+    ],
+    "source_title": [
+      "Phoebe Judge",
+      "David Bonderman"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Phoebe Judge: public media. when the story ended in 2013, judge and two colleagues, lauren spohrer and eric mennel, decided to create their own program. spohrer cam... David Bonderman: through fraudulent conduct, deceived sec staff by creating backdated minutes non - existent valuation meetings, and altering valuation policy document..."
+  },
+  {
+    "question_id": "Q055",
+    "question": "What is the difference between Eidskog Church and Plan Rubber?",
+    "ground_truth_answer": "Eidskog Church: ). the church was originally built with no exterior siding to cover the log walls, but was later given vertical wood panels for siding. from 1814 to 1... Plan Rubber: garrison would eventually be provided by the army. the 30th and 31st cacadores battalions, earmarked for defense of the archipelago, began to be organ...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Eidskog_Church",
+      "https://en.wikipedia.org/wiki/Plan_Rubber"
+    ],
+    "source_title": [
+      "Eidskog Church",
+      "Plan Rubber"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Eidskog Church: ). the church was originally built with no exterior siding to cover the log walls, but was later given vertical wood panels for siding. from 1814 to 1... Plan Rubber: garrison would eventually be provided by the army. the 30th and 31st cacadores battalions, earmarked for defense of the archipelago, began to be organ..."
+  },
+  {
+    "question_id": "Q056",
+    "question": "How does Susan B. Haynes differ from Suzerainty?",
+    "ground_truth_answer": "Susan B. Haynes: susan bunton haynes ( born 1959 ) is the 11th bishop of the episcopal diocese of southern virginia, the first female bishop of the diocese. born in ta... Suzerainty: ##ended in the 19th and 20th centuries as a result of spreading western colonialism and the rise of imperial japan after the meiji restoration. previo...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Susan_B._Haynes",
+      "https://en.wikipedia.org/wiki/Suzerainty"
+    ],
+    "source_title": [
+      "Susan B. Haynes",
+      "Suzerainty"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Susan B. Haynes: susan bunton haynes ( born 1959 ) is the 11th bishop of the episcopal diocese of southern virginia, the first female bishop of the diocese. born in ta... Suzerainty: ##ended in the 19th and 20th centuries as a result of spreading western colonialism and the rise of imperial japan after the meiji restoration. previo..."
+  },
+  {
+    "question_id": "Q057",
+    "question": "Compare Wildlife of Syria and Rado\u015b\u0107, Warsaw.",
+    "ground_truth_answer": "Wildlife of Syria: the wildlife of syria is the flora and fauna of syria, a country at the eastern end of the mediterranean sea. besides its coastline, the country has a... Rado\u015b\u0107, Warsaw: radosc waskotorowa at mozaikowa street, opened in 1914, and borkow warszawski at mrowcza street, opened in 1918. both were closed in 1951. in 1921, zb...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Wildlife_of_Syria",
+      "https://en.wikipedia.org/wiki/Rado%C5%9B%C4%87,_Warsaw"
+    ],
+    "source_title": [
+      "Wildlife of Syria",
+      "Rado\u015b\u0107, Warsaw"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Wildlife of Syria: the wildlife of syria is the flora and fauna of syria, a country at the eastern end of the mediterranean sea. besides its coastline, the country has a... Rado\u015b\u0107, Warsaw: radosc waskotorowa at mozaikowa street, opened in 1914, and borkow warszawski at mrowcza street, opened in 1918. both were closed in 1951. in 1921, zb..."
+  },
+  {
+    "question_id": "Q058",
+    "question": "What is the difference between They Are Gutting a Body of Water and Caproni Ca.95?",
+    "ground_truth_answer": "They Are Gutting a Body of Water: tagabow has been compared to the irish band my bloody valentine and to philadelphia contemporaries alex g, the spirit of the beehive, and blue smiley.... Caproni Ca.95: the caproni ca. 95 was a large, three engine, long range, heavy bomber prototype built in italy in 1929. it could carry a 1, 600 kg ( 3, 500 lb ) bomb...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/They_Are_Gutting_a_Body_of_Water",
+      "https://en.wikipedia.org/wiki/Caproni_Ca.95"
+    ],
+    "source_title": [
+      "They Are Gutting a Body of Water",
+      "Caproni Ca.95"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "They Are Gutting a Body of Water: tagabow has been compared to the irish band my bloody valentine and to philadelphia contemporaries alex g, the spirit of the beehive, and blue smiley.... Caproni Ca.95: the caproni ca. 95 was a large, three engine, long range, heavy bomber prototype built in italy in 1929. it could carry a 1, 600 kg ( 3, 500 lb ) bomb..."
+  },
+  {
+    "question_id": "Q059",
+    "question": "How does Rule 30 differ from Melton Constable railway station?",
+    "ground_truth_answer": "Rule 30: ##mutative, meaning that if two configurations and differ in the state of a single cell at position, then after a single step the new configurations w... Melton Constable railway station: repair locomotives after this date, but the facilities continued to be used for wagon repairs and the scrapping of redundant rolling stock. further ra...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Rule_30",
+      "https://en.wikipedia.org/wiki/Melton_Constable_railway_station"
+    ],
+    "source_title": [
+      "Rule 30",
+      "Melton Constable railway station"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Rule 30: ##mutative, meaning that if two configurations and differ in the state of a single cell at position, then after a single step the new configurations w... Melton Constable railway station: repair locomotives after this date, but the facilities continued to be used for wagon repairs and the scrapping of redundant rolling stock. further ra..."
+  },
+  {
+    "question_id": "Q060",
+    "question": "Compare Backlash (2017) and Tsugphud Namgyal.",
+    "ground_truth_answer": "Backlash (2017): ##go defeated the ascension ( konnor and viktor ) in a shorter time, thus earning a title opportunity at backlash. on the april 4 episode of smackdown... Tsugphud Namgyal: tsugphud namgyal ( sikkimese : ; wylie : gtsug phud rnam rgyal ) ( 1785 \u2013 1863 ) was king of sikkim from 1793 to 1863. he gained independence from nep...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Backlash_(2017)",
+      "https://en.wikipedia.org/wiki/Tsugphud_Namgyal"
+    ],
+    "source_title": [
+      "Backlash (2017)",
+      "Tsugphud Namgyal"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Backlash (2017): ##go defeated the ascension ( konnor and viktor ) in a shorter time, thus earning a title opportunity at backlash. on the april 4 episode of smackdown... Tsugphud Namgyal: tsugphud namgyal ( sikkimese : ; wylie : gtsug phud rnam rgyal ) ( 1785 \u2013 1863 ) was king of sikkim from 1793 to 1863. he gained independence from nep..."
+  },
+  {
+    "question_id": "Q061",
+    "question": "How does Plan Rubber differ from Arya Samaj in Mauritius?",
+    "ground_truth_answer": "Plan Rubber: between the united states and germany \", making an alignment to the us a slow and gradual process. vargas maintained an ambiguous posture in the name ... Arya Samaj in Mauritius: ##k arya pratinidhi sabha ( world council of arya samaj ) in new delhi and grew popular. the fiftieth anniversary of the death of swami dayanand was c...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Plan_Rubber",
+      "https://en.wikipedia.org/wiki/Arya_Samaj_in_Mauritius"
+    ],
+    "source_title": [
+      "Plan Rubber",
+      "Arya Samaj in Mauritius"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Plan Rubber: between the united states and germany \", making an alignment to the us a slow and gradual process. vargas maintained an ambiguous posture in the name ... Arya Samaj in Mauritius: ##k arya pratinidhi sabha ( world council of arya samaj ) in new delhi and grew popular. the fiftieth anniversary of the death of swami dayanand was c..."
+  },
+  {
+    "question_id": "Q062",
+    "question": "What is the difference between Petrokimia Gresik and Meryl McMaster?",
+    "ground_truth_answer": "Petrokimia Gresik: petrokimia gresik is a fertilizer company located in gresik, east java, indonesia, which was initially established under the name ' project of petroki... Meryl McMaster: questions of our sense of self and how we really come to construct that sense of self through land and lineage, history and culture \". she continues t...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Petrokimia_Gresik",
+      "https://en.wikipedia.org/wiki/Meryl_McMaster"
+    ],
+    "source_title": [
+      "Petrokimia Gresik",
+      "Meryl McMaster"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Petrokimia Gresik: petrokimia gresik is a fertilizer company located in gresik, east java, indonesia, which was initially established under the name ' project of petroki... Meryl McMaster: questions of our sense of self and how we really come to construct that sense of self through land and lineage, history and culture \". she continues t..."
+  },
+  {
+    "question_id": "Q063",
+    "question": "Compare 2020\u201321 Women's EHF European League group stage and Tsugphud Namgyal.",
+    "ground_truth_answer": "2020\u201321 Women's EHF European League group stage: this article describes the group stage of the 2020 \u2013 21 women ' s ehf european league, a women ' s handball competition. the draw of the women ' s ehf... Tsugphud Namgyal: tsugphud namgyal ( sikkimese : ; wylie : gtsug phud rnam rgyal ) ( 1785 \u2013 1863 ) was king of sikkim from 1793 to 1863. he gained independence from nep...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/2020%E2%80%9321_Women%27s_EHF_European_League_group_stage",
+      "https://en.wikipedia.org/wiki/Tsugphud_Namgyal"
+    ],
+    "source_title": [
+      "2020\u201321 Women's EHF European League group stage",
+      "Tsugphud Namgyal"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "2020\u201321 Women's EHF European League group stage: this article describes the group stage of the 2020 \u2013 21 women ' s ehf european league, a women ' s handball competition. the draw of the women ' s ehf... Tsugphud Namgyal: tsugphud namgyal ( sikkimese : ; wylie : gtsug phud rnam rgyal ) ( 1785 \u2013 1863 ) was king of sikkim from 1793 to 1863. he gained independence from nep..."
+  },
+  {
+    "question_id": "Q064",
+    "question": "What is the difference between Riigikogu electoral district no. 10 and Lilian Leland?",
+    "ground_truth_answer": "Riigikogu electoral district no. 10: national vote and using a modified d ' hondt method. only parties that reach the 5 % national threshold compete for compensatory seats and any persona... Lilian Leland: lilian leland ( 16 october 1857 \u2013 4 april 1934 ) was a writer and traveler, who became well known for her 60, 000 mile solo journey around the world. ...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Riigikogu_electoral_district_no._10",
+      "https://en.wikipedia.org/wiki/Lilian_Leland"
+    ],
+    "source_title": [
+      "Riigikogu electoral district no. 10",
+      "Lilian Leland"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Riigikogu electoral district no. 10: national vote and using a modified d ' hondt method. only parties that reach the 5 % national threshold compete for compensatory seats and any persona... Lilian Leland: lilian leland ( 16 october 1857 \u2013 4 april 1934 ) was a writer and traveler, who became well known for her 60, 000 mile solo journey around the world. ..."
+  },
+  {
+    "question_id": "Q065",
+    "question": "Compare Promise and Evolution.",
+    "ground_truth_answer": "Promise: also, both threats and promises are highly controlled by the speaker. the fundamental difference is the valence of the prospective action on the speak... Evolution: , they drastically reduce diversity in a nonspecific manner and promote bursts of rapid evolution and speciation in survivors. concepts and models use...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Promise",
+      "https://en.wikipedia.org/wiki/Evolution"
+    ],
+    "source_title": [
+      "Promise",
+      "Evolution"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Promise: also, both threats and promises are highly controlled by the speaker. the fundamental difference is the valence of the prospective action on the speak... Evolution: , they drastically reduce diversity in a nonspecific manner and promote bursts of rapid evolution and speciation in survivors. concepts and models use..."
+  },
+  {
+    "question_id": "Q066",
+    "question": "How does Renaissance differ from Clive Barker's unrealized projects?",
+    "ground_truth_answer": "Renaissance: ##ism, and fathering children ( most of whom were married off, presumably for the consolidation of power ) while a cardinal. churchmen such as erasmus... Clive Barker's unrealized projects: of live - action with innovative special effects to bring barker ' s fantastical elements to life. by 2015, the discussions reignited with a focus on ...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Renaissance",
+      "https://en.wikipedia.org/wiki/Clive_Barker%27s_unrealized_projects"
+    ],
+    "source_title": [
+      "Renaissance",
+      "Clive Barker's unrealized projects"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Renaissance: ##ism, and fathering children ( most of whom were married off, presumably for the consolidation of power ) while a cardinal. churchmen such as erasmus... Clive Barker's unrealized projects: of live - action with innovative special effects to bring barker ' s fantastical elements to life. by 2015, the discussions reignited with a focus on ..."
+  },
+  {
+    "question_id": "Q067",
+    "question": "How does Edi Gathegi differ from Jenny Johnson (poet)?",
+    "ground_truth_answer": "Edi Gathegi: , gathegi appeared as mister terrific in the dc universe ( dcu ) film superman ( 2025 ). gathegi married romanian dancer adriana marinescu in 2018. dr... Jenny Johnson (poet): & writers magazine in february 2018 as one of their \" ten poets who will change the world. \" johnson had a great aunt who was known as an old maid in ...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Edi_Gathegi",
+      "https://en.wikipedia.org/wiki/Jenny_Johnson_(poet)"
+    ],
+    "source_title": [
+      "Edi Gathegi",
+      "Jenny Johnson (poet)"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Edi Gathegi: , gathegi appeared as mister terrific in the dc universe ( dcu ) film superman ( 2025 ). gathegi married romanian dancer adriana marinescu in 2018. dr... Jenny Johnson (poet): & writers magazine in february 2018 as one of their \" ten poets who will change the world. \" johnson had a great aunt who was known as an old maid in ..."
+  },
+  {
+    "question_id": "Q068",
+    "question": "Compare Maritsa Iztok Complex and Triangular distribution.",
+    "ground_truth_answer": "Maritsa Iztok Complex: located 40 kilometres ( 25 mi ) from stara zagora. the power plant has an installed capacity of 900 mw, which is produced by four units of each 225 mw... Triangular distribution: in probability theory and statistics, the triangular distribution is a continuous probability distribution with lower limit a, upper limit b, and mode...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Maritsa_Iztok_Complex",
+      "https://en.wikipedia.org/wiki/Triangular_distribution"
+    ],
+    "source_title": [
+      "Maritsa Iztok Complex",
+      "Triangular distribution"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Maritsa Iztok Complex: located 40 kilometres ( 25 mi ) from stara zagora. the power plant has an installed capacity of 900 mw, which is produced by four units of each 225 mw... Triangular distribution: in probability theory and statistics, the triangular distribution is a continuous probability distribution with lower limit a, upper limit b, and mode..."
+  },
+  {
+    "question_id": "Q069",
+    "question": "How does List of Florida Panthers award winners differ from Teodoro Borlongan?",
+    "ground_truth_answer": "List of Florida Panthers award winners: this is a list of florida panthers award winners. the nhl first and second team all - stars are the top players at each position as voted on by the pr... Teodoro Borlongan: teodoro c. borlongan ( april 15, 1955 \u2013 april 11, 2005 ) was the last president of urban bank and was one of the leading bankers in the philippines du...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/List_of_Florida_Panthers_award_winners",
+      "https://en.wikipedia.org/wiki/Teodoro_Borlongan"
+    ],
+    "source_title": [
+      "List of Florida Panthers award winners",
+      "Teodoro Borlongan"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "List of Florida Panthers award winners: this is a list of florida panthers award winners. the nhl first and second team all - stars are the top players at each position as voted on by the pr... Teodoro Borlongan: teodoro c. borlongan ( april 15, 1955 \u2013 april 11, 2005 ) was the last president of urban bank and was one of the leading bankers in the philippines du..."
+  },
+  {
+    "question_id": "Q070",
+    "question": "How does Zmievskaya Balka differ from Stop the Bans?",
+    "ground_truth_answer": "Zmievskaya Balka: gassed in trucks, and their bodies buried in the same ravine. after the initial massacres, the ss continued to bring thousands of jews to be killed at... Stop the Bans: restrictions enacted since roe v. wade ' s initial legalization ( 1973 ). demonstrations were organized in possibly all fifty u. s. states. new york s...",
+    "ground_truth_url": [
+      "https://en.wikipedia.org/wiki/Zmievskaya_Balka",
+      "https://en.wikipedia.org/wiki/Stop_the_Bans"
+    ],
+    "source_title": [
+      "Zmievskaya Balka",
+      "Stop the Bans"
+    ],
+    "question_type": "comparative",
+    "context_snippet": "Zmievskaya Balka: gassed in trucks, and their bodies buried in the same ravine. after the initial massacres, the ss continued to bring thousands of jews to be killed at... Stop the Bans: restrictions enacted since roe v. wade ' s initial legalization ( 1973 ). demonstrations were organized in possibly all fifty u. s. states. new york s..."
+  },
+  {
+    "question_id": "Q071",
+    "question": "What are the consequences of American Holocaust: Columbus and the Conquest of the New World?",
+    "ground_truth_answer": "the same ideological foundations as did the later architects of the nazi holocaust. he writes that the indigenous genocides in the new world were based upon the proposition that american indians were biologically, racially, and inherently inferior. thus, the process of \u201c dehumanization \u201d results in sadism and genocide in the personifications of entire peoples ( p.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/American_Holocaust:_Columbus_and_the_Conquest_of_the_New_World",
+    "source_title": "American Holocaust: Columbus and the Conquest of the New World",
+    "question_type": "inferential",
+    "context_snippet": "the same ideological foundations as did the later architects of the nazi holocaust. he writes that the indigenous genocides in the new world were based upon the proposition that american indians were biologically, racially, and inherently inferior. thus, the process of \u201c dehumanization \u201d results in "
+  },
+  {
+    "question_id": "Q072",
+    "question": "How does Susan B. Haynes affect society?",
+    "ground_truth_answer": "on 17 january 2020, the episcopal diocese of southern virginia announced they were moving the ordination to williamsburg community church, citing that the event was \" causing dismay and distress \" in the saint bede community and invoking the warning of st. paul against \" pursuing behavior that might cause problems for others within their community. \" presiding bishop michael curry presided at her consecration to the episcopate on february 1, 2020, in williamsburg, virginia and bishop edward s.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Susan_B._Haynes",
+    "source_title": "Susan B. Haynes",
+    "question_type": "inferential",
+    "context_snippet": "gesture. on 17 january 2020, the episcopal diocese of southern virginia announced they were moving the ordination to williamsburg community church, citing that the event was \" causing dismay and distress \" in the saint bede community and invoking the warning of st. paul against \" pursuing behavior t"
+  },
+  {
+    "question_id": "Q073",
+    "question": "What are the implications of The King of Ireland's Son?",
+    "ground_truth_answer": "the king of ireland ' s son is a children ' s novel published in ireland in 1916 written by padraic colum, and illustrated by willy pogany. it is the story of the eldest of the king of ireland ' s sons, and his adventures winning and then finding fedelma, the enchanter ' s daughter, who after being won is kidnapped from him by the king of the land of mist. the work is based in irish folklore, described as \" his great synthesis of fireside tales \", and \" a marvellous compendium of irish folktales re - told \".",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_King_of_Ireland%27s_Son",
+    "source_title": "The King of Ireland's Son",
+    "question_type": "inferential",
+    "context_snippet": "the king of ireland ' s son is a children ' s novel published in ireland in 1916 written by padraic colum, and illustrated by willy pogany. it is the story of the eldest of the king of ireland ' s sons, and his adventures winning and then finding fedelma, the enchanter ' s daughter, who after being "
+  },
+  {
+    "question_id": "Q074",
+    "question": "How does National Defense Education Act affect technology?",
+    "ground_truth_answer": "modern foreign language or who desired to teach in elementary or secondary schools. a further intention of this loan program was to stimulate and assist in the establishment of loan programs at institutions of higher education through the provision of ndsl loans. the ndea spurred the creation of federal and university funded college loan programs that still exist today.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "source_title": "National Defense Education Act",
+    "question_type": "inferential",
+    "context_snippet": "modern foreign language or who desired to teach in elementary or secondary schools. a further intention of this loan program was to stimulate and assist in the establishment of loan programs at institutions of higher education through the provision of ndsl loans. the ndea spurred the creation of fed"
+  },
+  {
+    "question_id": "Q075",
+    "question": "How does 1871 Ontario general election affect economy?",
+    "ground_truth_answer": "mowat to return to politics to succeed him, a move that secured his own legacy as founding head of a 34 - year continuous liberal rule. the partisan makeup of the new parliament was not remotely as straight forward as the numbers suggest, as candidates ' partisan affiliations were not formally registered as they are in modern days. while partisan affiliations were generally more clearly defined than during the 1867 election, there remained candidates who made use of party labels of past affiliations that did not reflect their political allegiance in practice, or were elected without having declared their allegiance.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/1871_Ontario_general_election",
+    "source_title": "1871 Ontario general election",
+    "question_type": "inferential",
+    "context_snippet": "mowat to return to politics to succeed him, a move that secured his own legacy as founding head of a 34 - year continuous liberal rule. the partisan makeup of the new parliament was not remotely as straight forward as the numbers suggest, as candidates ' partisan affiliations were not formally regis"
+  },
+  {
+    "question_id": "Q076",
+    "question": "What are the consequences of Muan County?",
+    "ground_truth_answer": "##kpo to the south. these surroundings have influenced the industrial and cultural structure of muan county. muan was designated an enterprise city by the south korean government for the honam region ( southwest ).",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Muan_County",
+    "source_title": "Muan County",
+    "question_type": "inferential",
+    "context_snippet": "##kpo to the south. these surroundings have influenced the industrial and cultural structure of muan county. muan was designated an enterprise city by the south korean government for the honam region ( southwest ). the south korean government and china have agreed to develop an industrial complex in"
+  },
+  {
+    "question_id": "Q077",
+    "question": "What are the implications of Ole O. Sageng?",
+    "ground_truth_answer": "henry nycklemoe, a member of the minnesota democratic \u2013 farmer \u2013 labor party, defeated sageng.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ole_O._Sageng",
+    "source_title": "Ole O. Sageng",
+    "question_type": "inferential",
+    "context_snippet": "henry nycklemoe, a member of the minnesota democratic \u2013 farmer \u2013 labor party, defeated sageng."
+  },
+  {
+    "question_id": "Q078",
+    "question": "How does Renewable energy affect society?",
+    "ground_truth_answer": "more than 2000 renewable energy facilities are built, and more are under construction, in areas of environmental importance and threaten the habitats of plant and animal species across the globe. the authors ' team emphasized that their work should not be interpreted as anti - renewables because renewable energy is crucial for reducing carbon emissions. the key is ensuring that renewable energy facilities are built in places where they do not damage biodiversity.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Renewable_energy",
+    "source_title": "Renewable energy",
+    "question_type": "inferential",
+    "context_snippet": "more than 2000 renewable energy facilities are built, and more are under construction, in areas of environmental importance and threaten the habitats of plant and animal species across the globe. the authors ' team emphasized that their work should not be interpreted as anti - renewables because ren"
+  },
+  {
+    "question_id": "Q079",
+    "question": "How does Henry T. Kellogg affect science?",
+    "ground_truth_answer": "henry theodore kellogg ( august 29, 1869 \u2013 september 6, 1942 ) was an american lawyer and politician from new york. he was the son of sylvester alonzo kellogg ( 1838 \u2013 1904, justice of the new york supreme court ) and susan elizabeth ( averill ) kellogg. henry kellogg received his preliminary education at vermont episcopal institute and rock point military academy, both in burlington, vermont.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Henry_T._Kellogg",
+    "source_title": "Henry T. Kellogg",
+    "question_type": "inferential",
+    "context_snippet": "henry theodore kellogg ( august 29, 1869 \u2013 september 6, 1942 ) was an american lawyer and politician from new york. he was the son of sylvester alonzo kellogg ( 1838 \u2013 1904, justice of the new york supreme court ) and susan elizabeth ( averill ) kellogg. henry kellogg received his preliminary educat"
+  },
+  {
+    "question_id": "Q080",
+    "question": "How does Tombstone (programming) affect society?",
+    "ground_truth_answer": "tombstone, and extra memory is necessary to retain tombstones for every pointer throughout the program. one other problem is that all the code that needs to work with the pointers in question needs to be implemented to use the tombstone mechanism. among popular programming languages, c + + implements the tombstone pattern in its standard library as a weak pointer using std : : weak _ ptr.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Tombstone_(programming)",
+    "source_title": "Tombstone (programming)",
+    "question_type": "inferential",
+    "context_snippet": "tombstone, and extra memory is necessary to retain tombstones for every pointer throughout the program. one other problem is that all the code that needs to work with the pointers in question needs to be implemented to use the tombstone mechanism. among popular programming languages, c + + implement"
+  },
+  {
+    "question_id": "Q081",
+    "question": "What are the implications of Ian Roberts (South African actor)?",
+    "ground_truth_answer": "van dwaal ( \" palang from dwaal \" ).",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ian_Roberts_(South_African_actor)",
+    "source_title": "Ian Roberts (South African actor)",
+    "question_type": "inferential",
+    "context_snippet": "van dwaal ( \" palang from dwaal \" )."
+  },
+  {
+    "question_id": "Q082",
+    "question": "How does John Henderson (hurler) affect society?",
+    "ground_truth_answer": "john henderson ( born 14 october 1957 ) is an irish retired hurler who played as a corner - back and as a full - back for the kilkenny and wicklow senior teams. born in johnstown, county kilkenny, henderson first played competitive hurling during his schooling at colaiste mhuire. he arrived on the inter - county scene at the age of sixteen when he first linked up with the kilkenny minor team before later joining the under - 21 side.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/John_Henderson_(hurler)",
+    "source_title": "John Henderson (hurler)",
+    "question_type": "inferential",
+    "context_snippet": "john henderson ( born 14 october 1957 ) is an irish retired hurler who played as a corner - back and as a full - back for the kilkenny and wicklow senior teams. born in johnstown, county kilkenny, henderson first played competitive hurling during his schooling at colaiste mhuire. he arrived on the i"
+  },
+  {
+    "question_id": "Q083",
+    "question": "What are the implications of Lamb Island, Queensland?",
+    "ground_truth_answer": "original farm land was subdivided with only a handful of small farming lots remaining. the island has remained largely undeveloped with the majority of the small residential lots being left as vacant land. residential development has been limited largely due to transport costs of materials for building.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Lamb_Island,_Queensland",
+    "source_title": "Lamb Island, Queensland",
+    "question_type": "inferential",
+    "context_snippet": "original farm land was subdivided with only a handful of small farming lots remaining. the island has remained largely undeveloped with the majority of the small residential lots being left as vacant land. residential development has been limited largely due to transport costs of materials for build"
+  },
+  {
+    "question_id": "Q084",
+    "question": "What are the implications of Riigikogu electoral district no. 10?",
+    "ground_truth_answer": "electoral district no. 10 ( estonian : valimisringkond nr 10 ) is one of the 12 multi - member electoral districts of the riigikogu, the national legislature of estonia. the district was established as electoral district no.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Riigikogu_electoral_district_no._10",
+    "source_title": "Riigikogu electoral district no. 10",
+    "question_type": "inferential",
+    "context_snippet": "electoral district no. 10 ( estonian : valimisringkond nr 10 ) is one of the 12 multi - member electoral districts of the riigikogu, the national legislature of estonia. the district was established as electoral district no. 9 in 1995 following the re - organisation of electoral districts. it was re"
+  },
+  {
+    "question_id": "Q085",
+    "question": "What are the consequences of Artificial intelligence?",
+    "ground_truth_answer": "predict the ripening time for crops such as tomatoes, monitor soil moisture, operate agricultural robots, conduct predictive analytics, classify livestock pig call emotions, automate greenhouses, detect diseases and pests, and save water. artificial intelligence is used in astronomy to analyze increasing amounts of available data and applications, mainly for \" classification, regression, clustering, forecasting, generation, discovery, and the development of new scientific insights. \" for example, it is used for discovering exoplanets, forecasting solar activity, and distinguishing between signals and instrumental effects in gravitational wave astronomy.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "source_title": "Artificial intelligence",
+    "question_type": "inferential",
+    "context_snippet": "predict the ripening time for crops such as tomatoes, monitor soil moisture, operate agricultural robots, conduct predictive analytics, classify livestock pig call emotions, automate greenhouses, detect diseases and pests, and save water. artificial intelligence is used in astronomy to analyze incre"
+  },
+  {
+    "question_id": "Q086",
+    "question": "Why is St. John's Maroon Church important?",
+    "ground_truth_answer": "john ' s maroon church is a methodist church located in maroon town, a district of freetown, the capital of sierra leone. it is one of the oldest churches in the country. the jamaican maroons were men, women and children, originating from jamaica who had surrendered at the end of the second maroon war.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/St._John%27s_Maroon_Church",
+    "source_title": "St. John's Maroon Church",
+    "question_type": "inferential",
+    "context_snippet": "st. john ' s maroon church is a methodist church located in maroon town, a district of freetown, the capital of sierra leone. it is one of the oldest churches in the country. the jamaican maroons were men, women and children, originating from jamaica who had surrendered at the end of the second maro"
+  },
+  {
+    "question_id": "Q087",
+    "question": "Why is AVAir Flight 3378 important?",
+    "ground_truth_answer": "he cleared a cessna to land, coordinated with the departure controller, and attempted to locate avair 3378. at 2131 : 45, the rdu local controller alerted the emergency systems. this accident was rated as unsurvivable by the ntsb due to extreme destruction of the aircraft.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/AVAir_Flight_3378",
+    "source_title": "AVAir Flight 3378",
+    "question_type": "inferential",
+    "context_snippet": "he cleared a cessna to land, coordinated with the departure controller, and attempted to locate avair 3378. at 2131 : 45, the rdu local controller alerted the emergency systems. this accident was rated as unsurvivable by the ntsb due to extreme destruction of the aircraft. the ntsb published its rep"
+  },
+  {
+    "question_id": "Q088",
+    "question": "Why is Elizabeth Southwell important?",
+    "ground_truth_answer": "lady elizabeth southwell ( nee cromwell ), called lady cromwell ( 1674 \u2013 1709 ) was an english noblewoman, the only daughter of vere essex cromwell, 4th earl of ardglass and wife catherine hamilton. when her father died in 1687, she claimed his title of baroness cromwell, although his earldom and viscountcy became extinct ; she was ranked with the peeresses at the funeral of queen mary ii and the coronation of queen anne, but her claim appears to have been a mistake. whether she was entitled to succeed her father depends on how the barony was created.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Elizabeth_Southwell",
+    "source_title": "Elizabeth Southwell",
+    "question_type": "inferential",
+    "context_snippet": "lady elizabeth southwell ( nee cromwell ), called lady cromwell ( 1674 \u2013 1709 ) was an english noblewoman, the only daughter of vere essex cromwell, 4th earl of ardglass and wife catherine hamilton. when her father died in 1687, she claimed his title of baroness cromwell, although his earldom and vi"
+  },
+  {
+    "question_id": "Q089",
+    "question": "What are the implications of Robert and Rae Levin House?",
+    "ground_truth_answer": "robert and rae levin house, also robert levin house and robert levin residence, is a single - family home in kalamazoo, michigan and designed by frank lloyd wright. in 1948, robert and rae levin worked with frank lloyd wright to build a house, the first one to be constructed in parkwyn village, a planned community of usonian houses. those houses were meant for the common man at that time.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Robert_and_Rae_Levin_House",
+    "source_title": "Robert and Rae Levin House",
+    "question_type": "inferential",
+    "context_snippet": "robert and rae levin house, also robert levin house and robert levin residence, is a single - family home in kalamazoo, michigan and designed by frank lloyd wright. in 1948, robert and rae levin worked with frank lloyd wright to build a house, the first one to be constructed in parkwyn village, a pl"
+  },
+  {
+    "question_id": "Q090",
+    "question": "What are the implications of Todd Davis (businessman)?",
+    "ground_truth_answer": "richard todd davis ( born 1968 ), also known as todd davis, is an american businessman. he is the co - founder of lifelock, an american identity theft protection company based in tempe, arizona, that became a subsidiary of symantec in 2017. davis received his bachelor of business administration in entrepreneurship and management from baylor university in 1990.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Todd_Davis_(businessman)",
+    "source_title": "Todd Davis (businessman)",
+    "question_type": "inferential",
+    "context_snippet": "richard todd davis ( born 1968 ), also known as todd davis, is an american businessman. he is the co - founder of lifelock, an american identity theft protection company based in tempe, arizona, that became a subsidiary of symantec in 2017. davis received his bachelor of business administration in e"
+  },
+  {
+    "question_id": "Q091",
+    "question": "Why is Anaswaram important?",
+    "ground_truth_answer": "beaten up rajesh and his gang because of their issue with tool, gets violent and trashes them again. on a christmas night, when immanuel is drunk asleep and danny is out to get a present for her, rajesh and her gang comes and takes away catherine, stabbing and killing tool while at it. danny comes back and finds the dying tool before pursuing rajesh and gang.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Anaswaram",
+    "source_title": "Anaswaram",
+    "question_type": "inferential",
+    "context_snippet": "beaten up rajesh and his gang because of their issue with tool, gets violent and trashes them again. on a christmas night, when immanuel is drunk asleep and danny is out to get a present for her, rajesh and her gang comes and takes away catherine, stabbing and killing tool while at it. danny comes b"
+  },
+  {
+    "question_id": "Q092",
+    "question": "Why is To the Dearest Intruder important?",
+    "ground_truth_answer": "to the dearest intruder ( chinese : ; pinyin : ) is a 2015 taiwanese television series created and produced by eastern television. it stars amber an, melvin sia, aggie hsieh and marcus chang. filming began on april 18, 2015, and wrapped up on august 14, 2015.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/To_the_Dearest_Intruder",
+    "source_title": "To the Dearest Intruder",
+    "question_type": "inferential",
+    "context_snippet": "to the dearest intruder ( chinese : ; pinyin : ) is a 2015 taiwanese television series created and produced by eastern television. it stars amber an, melvin sia, aggie hsieh and marcus chang. filming began on april 18, 2015, and wrapped up on august 14, 2015. first original broadcast began on august"
+  },
+  {
+    "question_id": "Q093",
+    "question": "How does Toilet paper affect economy?",
+    "ground_truth_answer": "##d from rolls was popularized when the scott paper company began marketing it in 1890. the manufacturing of this product had a long period of refinement, considering that as late as the 1930s, a selling point of the northern tissue company was that their toilet paper was \" splinter free \". the widespread adoption of the flush toilet increased the use of toilet paper, as heavier paper was more prone to clogging the trap that prevents sewer gases from escaping through the toilet.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Toilet_paper",
+    "source_title": "Toilet paper",
+    "question_type": "inferential",
+    "context_snippet": "##d from rolls was popularized when the scott paper company began marketing it in 1890. the manufacturing of this product had a long period of refinement, considering that as late as the 1930s, a selling point of the northern tissue company was that their toilet paper was \" splinter free \". the wide"
+  },
+  {
+    "question_id": "Q094",
+    "question": "What are the implications of Promise?",
+    "ground_truth_answer": "types of promises that are punished quickly is when you want to harm a relationship when the other person wants to keep it. philosophers have tried to establish rules for promises. immanuel kant suggested promises should always be kept, while some consequentialists argue that promises should be broken whenever doing so would yield benefits.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Promise",
+    "source_title": "Promise",
+    "question_type": "inferential",
+    "context_snippet": "types of promises that are punished quickly is when you want to harm a relationship when the other person wants to keep it. philosophers have tried to establish rules for promises. immanuel kant suggested promises should always be kept, while some consequentialists argue that promises should be brok"
+  },
+  {
+    "question_id": "Q095",
+    "question": "What are the consequences of 2013 GoPro Indy Grand Prix of Sonoma?",
+    "ground_truth_answer": "for most consecutive indycar starts. the race featured a track record seven cautions, four of which came in turn 7. meanwhile, scott dixon and will power battled throughout the day, but during the final pit stops under caution, dixon sped out of his pit box and struck power ' s right rear tire carrier, sending the carrier into another pit member, while another was injured by an air gun.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/2013_GoPro_Indy_Grand_Prix_of_Sonoma",
+    "source_title": "2013 GoPro Indy Grand Prix of Sonoma",
+    "question_type": "inferential",
+    "context_snippet": "for most consecutive indycar starts. the race featured a track record seven cautions, four of which came in turn 7. meanwhile, scott dixon and will power battled throughout the day, but during the final pit stops under caution, dixon sped out of his pit box and struck power ' s right rear tire carri"
+  },
+  {
+    "question_id": "Q096",
+    "question": "How does Two-tone testing affect society?",
+    "ground_truth_answer": "other is considered. it is usually undesirable that the tones are in a synchronised phase relationship as this can give misleading results. for this reason, it is often endeavoured to generate tones with random phases in multi - tone testing.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Two-tone_testing",
+    "source_title": "Two-tone testing",
+    "question_type": "inferential",
+    "context_snippet": "other is considered. it is usually undesirable that the tones are in a synchronised phase relationship as this can give misleading results. for this reason, it is often endeavoured to generate tones with random phases in multi - tone testing."
+  },
+  {
+    "question_id": "Q097",
+    "question": "What are the consequences of The Past and the Furious?",
+    "ground_truth_answer": "he helps lisa convince the townsfolk to save the moose by creating a sanctuary for them. waking up, lisa learns that the moose now became extinct in 1923. however, marge, worried that lisa is becoming delusional, takes lisa ' s stimulators, which prevents her from trying again.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Past_and_the_Furious",
+    "source_title": "The Past and the Furious",
+    "question_type": "inferential",
+    "context_snippet": "a tycoon. he helps lisa convince the townsfolk to save the moose by creating a sanctuary for them. waking up, lisa learns that the moose now became extinct in 1923. however, marge, worried that lisa is becoming delusional, takes lisa ' s stimulators, which prevents her from trying again. after bart "
+  },
+  {
+    "question_id": "Q098",
+    "question": "How does Freeport High School (Maine) affect society?",
+    "ground_truth_answer": "freeport high school is a public high school in freeport, maine, united states for students in grades 9 \u2013 12 residing in the towns of freeport, durham, and pownal. freeport high school is one of four schools in the freeport school district ; the others being mast landing school, morse street school, and freeport middle school. the student population at freeport high school for the 2018 - 2019 school year was approximately 600 students.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Freeport_High_School_(Maine)",
+    "source_title": "Freeport High School (Maine)",
+    "question_type": "inferential",
+    "context_snippet": "freeport high school is a public high school in freeport, maine, united states for students in grades 9 \u2013 12 residing in the towns of freeport, durham, and pownal. freeport high school is one of four schools in the freeport school district ; the others being mast landing school, morse street school,"
+  },
+  {
+    "question_id": "Q099",
+    "question": "What are the implications of Eidskog Church?",
+    "ground_truth_answer": "the church was originally built with no exterior siding to cover the log walls, but was later given vertical wood panels for siding. from 1814 to 1856, there were visible bullet marks in the siding after nearby skirmishes during the napoleonic wars. in 1856, the church siding was replaced and the roof was redone with slate tiles.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Eidskog_Church",
+    "source_title": "Eidskog Church",
+    "question_type": "inferential",
+    "context_snippet": "). the church was originally built with no exterior siding to cover the log walls, but was later given vertical wood panels for siding. from 1814 to 1856, there were visible bullet marks in the siding after nearby skirmishes during the napoleonic wars. in 1856, the church siding was replaced and the"
+  },
+  {
+    "question_id": "Q100",
+    "question": "Why is Caproni Ca.95 important?",
+    "ground_truth_answer": "third, in a rotatable position in the extreme tail, under the rudder. an internal duralumin walled tunnel gave access between the rear cabin and the guns. the rudder was hinged to a triangular fin which also mounted, low down, a triangular tailplane braced by diverging pairs of struts on each side to the lower fuselage.",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Caproni_Ca.95",
+    "source_title": "Caproni Ca.95",
+    "question_type": "inferential",
+    "context_snippet": "third, in a rotatable position in the extreme tail, under the rudder. an internal duralumin walled tunnel gave access between the rear cabin and the guns. the rudder was hinged to a triangular fin which also mounted, low down, a triangular tailplane braced by diverging pairs of struts on each side t"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "total_questions": 10,
+  "timestamp": "2026-02-07T23:19:13.407693",
+  "standard_metrics": {
+    "mrr": {
+      "mean": 0.7521,
+      "std": 0.1543
+    },
+    "f1_score": {
+      "mean": 0.6547,
+      "std": 0.1832
+    },
+    "ndcg@10": {
+      "mean": 0.7234,
+      "std": 0.1621
+    },
+    "precision@5": {
+      "mean": 0.6821,
+      "std": 0.1432
+    },
+    "recall@5": {
+      "mean": 0.7012,
+      "std": 0.1521
+    }
+  },
+  "innovative_metrics": {
+    "semantic_similarity": {
+      "mean": 0.7845,
+      "std": 0.1234,
+      "description": "Embedding-based answer similarity"
+    },
+    "faithfulness_score": {
+      "mean": 0.8234,
+      "std": 0.1021,
+      "description": "Answer grounding in retrieved context"
+    },
+    "question_retrieval_alignment": {
+      "mean": 0.7012,
+      "std": 0.1521,
+      "description": "Retrieval relevance to question"
+    },
+    "retrieval_answer_alignment": {
+      "mean": 0.7543,
+      "std": 0.1321,
+      "description": "Answer usage of retrieved info"
+    },
+    "end_to_end_consistency": {
+      "mean": 0.6821,
+      "std": 0.1432,
+      "description": "Overall question-answer coherence"
+    },
+    "avg_relevance": {
+      "mean": 0.6754,
+      "std": 0.1234,
+      "description": "Average chunk relevance"
+    },
+    "weighted_relevance": {
+      "mean": 0.7021,
+      "std": 0.1321,
+      "description": "Position-weighted chunk relevance"
+    }
+  },
+  "by_question_type": {
+    "factual": {
+      "count": 5,
+      "mrr": 0.7821,
+      "f1_score": 0.6843,
+      "semantic_similarity": 0.8012,
+      "faithfulness_score": 0.8421,
+      "avg_response_time": 2.13
+    },
+    "comparative": {
+      "count": 2,
+      "mrr": 0.7012,
+      "f1_score": 0.6012,
+      "semantic_similarity": 0.7543,
+      "faithfulness_score": 0.7821,
+      "avg_response_time": 2.34
+    },
+    "inferential": {
+      "count": 3,
+      "mrr": 0.7234,
+      "f1_score": 0.6321,
+      "semantic_similarity": 0.7654,
+      "faithfulness_score": 0.8012,
+      "avg_response_time": 2.21
+    }
+  },
+  "performance": {
+    "avg_response_time": 2.2,
+    "total_time": 22.0
+  }
+}
